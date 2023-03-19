@@ -2,7 +2,7 @@ from django.contrib.auth import get_user_model
 from django.db import models
 
 CHOICES = (
-    ('Gray', 'Серый'),
+    ('Grey', 'Серый'),
     ('Black', 'Чёрный'),
     ('White', 'Белый'),
     ('Ginger', 'Рыжий'),
